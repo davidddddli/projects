@@ -1,2 +1,2 @@
-# projetcts
+# projects
 Personal projects 
